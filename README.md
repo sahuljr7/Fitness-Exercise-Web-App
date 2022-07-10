@@ -19,3 +19,13 @@ For this build we fetch data from unlimited sources using rapid api
 
 ⭐RapidAPI YouTube Search - https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 
+
+This website has the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more 
+
+
+- Advanced React Best Practices such as file structure and hooks
+
+- Creating a Beautiful User Interface using the Material UI (version 5)
+
+- Fetching data from unlimited sources using RapidAPI
+
